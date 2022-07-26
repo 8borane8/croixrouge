@@ -488,7 +488,7 @@ div.donate-input-container input{
 
 @media only screen and (max-width: 425px){
     main{
-        width: 345px;
+        width: calc(100% - 15px * 2);
         padding: 0px 15px;
     }
 
